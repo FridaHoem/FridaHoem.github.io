@@ -1,0 +1,152 @@
+:root {
+    --primary-color: #2c3e50; /* Dark Slate Blue */
+    --accent-color: #e74c3c; /* Tomato Red for highlights */
+    --bg-color: #f8f9fa; /* Off-white background */
+    --text-color: #333;
+    --light-gray: #e0e0e0;
+    --font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    font-family: var(--font-family);
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+nav {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--text-color);
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: var(--accent-color);
+}
+
+main {
+    max-width: 960px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+section {
+    margin-bottom: 3rem;
+    padding-top: 60px; /* Offset for sticky header */
+    margin-top: -60px;
+}
+
+h1, h2, h3 {
+    color: var(--primary-color);
+}
+
+.profile-section {
+    display: flex;
+    gap: 2rem;
+    align-items: start;
+    flex-wrap: wrap;
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.bio {
+    flex: 1;
+    min-width: 300px;
+}
+
+.publication-list {
+    list-style: none;
+    padding: 0;
+}
+
+.publication-item {
+    background: #fff;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-left: 4px solid var(--primary-color);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    transition: transform 0.2s;
+}
+
+.publication-item:hover {
+    transform: translateX(5px);
+}
+
+.pub-title {
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-bottom: 0.25rem;
+}
+
+.pub-authors {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 0.25rem;
+}
+
+.pub-venue {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.highlight-author {
+    font-weight: bold;
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+    .profile-section {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .nav-links {
+        display: none; /* simple mobile hide for now, could be a hamburger */
+    }
+}
