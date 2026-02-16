@@ -1,7 +1,10 @@
 :root {
-    --primary-color: #2c3e50; /* Dark Slate Blue */
-    --accent-color: #e74c3c; /* Tomato Red for highlights */
-    --bg-color: #f8f9fa; /* Off-white background */
+    --primary-color: #2c3e50;
+    /* Dark Slate Blue */
+    --accent-color: #e74c3c;
+    /* Tomato Red for highlights */
+    --bg-color: #f8f9fa;
+    /* Off-white background */
     --text-color: #333;
     --light-gray: #e0e0e0;
     --font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -18,7 +21,7 @@ body {
 
 header {
     background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 1rem 0;
     position: sticky;
     top: 0;
@@ -68,11 +71,14 @@ main {
 
 section {
     margin-bottom: 3rem;
-    padding-top: 60px; /* Offset for sticky header */
+    padding-top: 60px;
+    /* Offset for sticky header */
     margin-top: -60px;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     color: var(--primary-color);
 }
 
@@ -89,7 +95,7 @@ h1, h2, h3 {
     object-fit: cover;
     border-radius: 50%;
     border: 3px solid #fff;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .bio {
@@ -107,7 +113,7 @@ h1, h2, h3 {
     padding: 1rem;
     margin-bottom: 1rem;
     border-left: 4px solid var(--primary-color);
-    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
     transition: transform 0.2s;
 }
 
@@ -119,6 +125,17 @@ h1, h2, h3 {
     font-weight: bold;
     font-size: 1.1rem;
     margin-bottom: 0.25rem;
+}
+
+.pub-title-link {
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s;
+}
+
+.pub-title-link:hover {
+    color: var(--accent-color);
+    text-decoration: underline;
 }
 
 .pub-authors {
@@ -145,8 +162,55 @@ h1, h2, h3 {
         align-items: center;
         text-align: center;
     }
-    
+
     .nav-links {
-        display: none; /* simple mobile hide for now, could be a hamburger */
+        display: none;
+        /* simple mobile hide for now, could be a hamburger */
+    }
+}
+
+.cv-section {
+    margin-bottom: 2rem;
+}
+
+.cv-section h3 {
+    border-bottom: 2px solid var(--light-gray);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    color: var(--primary-color);
+}
+
+.cv-item {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.cv-date {
+    min-width: 120px;
+    font-weight: bold;
+    color: #666;
+    flex-shrink: 0;
+}
+
+.cv-content {
+    flex: 1;
+}
+
+.cv-content p {
+    margin: 0.25rem 0 0 0;
+    font-size: 0.95rem;
+}
+
+@media (max-width: 600px) {
+    .cv-item {
+        flex-direction: column;
+        gap: 0.25rem;
+    }
+
+    .cv-date {
+        min-width: auto;
+        color: var(--accent-color);
     }
 }
