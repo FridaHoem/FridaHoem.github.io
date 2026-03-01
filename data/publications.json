@@ -1,178 +1,426 @@
 [
   {
-    "title": "Late Cenozoic oceanographic evolution of the South Atlantic Ocean",
-    "authors": "Frida S. Hoem, Karlijn van den Broek, Adrián López-Quirós, Suzanna van de Lagemaat, Steven M. Bohaty, Henk Brinkhuis, Francesca Sangiorgi, Peter K. Bijl",
-    "year": "n.d.",
-    "venue": "Journal of Micropaleontology",
-    "url": "",
+    "title": "Stepwise Oligocene\u2013Miocene breakdown of subpolar gyres and strengthening of the Antarctic Circumpolar Current",
+    "authors": "Frida S Hoem, Karlijn van den Broek, Adri\u00e1n L\u00f3pez-Quir\u00f3s, Suzanna HA van de Lagemaat, Steve M Bohaty, Claus-Dieter Hillenbrand, Robert D Larter, Tim E van Peer, Henk Brinkhuis, Francesca Sangiorgi, Peter K Bijl",
+    "year": 2024,
+    "venue": "Journal of Micropalaeontology",
+    "url": "https://jm.copernicus.org/articles/43/497/2024/",
+    "eprint_url": ""
+  },
+  {
+    "title": "Late Oligocene-Early Miocene depositional-diagenetic evolution of the South Orkney Microcontinent (Antarctica) linked to the development of Jane Basin",
+    "authors": "Adri\u00e1n L\u00f3pez-Quir\u00f3s, Fernando Nieto, Antonio S\u00e1nchez-Navas, Antonio Garc\u00eda-Casco, Frida S Hoem, David M Harwood, Peter K Bijl, Fernando Bohoyo, Cecilia Morales-Oca\u00f1a, Carlota Escutia",
+    "year": 2024,
+    "venue": "Universidad de Salamanca",
+    "url": "https://digital.csic.es/handle/10261/388506",
+    "eprint_url": ""
+  },
+  {
+    "title": "Lipid-biomarker-based sea surface temperature record offshore Tasmania over the last 23 million years",
+    "authors": "Suning Hou, Foteini Lamprou, Frida S Hoem, Mohammad Rizky Nanda Hadju, Francesca Sangiorgi, Francien Peterse, Peter K Bijl",
+    "year": 2023,
+    "venue": "Climate of the Past",
+    "url": "https://cp.copernicus.org/articles/19/787/2023/cp-19-787-2023.html",
     "eprint_url": ""
   },
   {
     "title": "Reconciling Southern Ocean fronts equatorward migration with minor Antarctic ice volume change during Miocene cooling",
-    "authors": "Hou, S., Stap, L. B., Paul, R., Nelissen, M., Hoem, F. S., Ziegler, M., Sluijs, A., Sangiorgi, F., and Bijl, P. K",
-    "year": "2023",
+    "authors": "Suning Hou, Lennert B Stap, Ryan Paul, Mei Nelissen, Frida S Hoem, Martin Ziegler, Appy Sluijs, Francesca Sangiorgi, Peter K Bijl",
+    "year": 2023,
     "venue": "Nature Communications",
-    "url": "https://doi.org/10.1038/s41467-023-43106-4",
-    "eprint_url": ""
-  },
-  {
-    "title": "Terrestrial climate and vegetation change in the western Tasmanian region from the late Eocene to late Oligocene",
-    "authors": "Michael Amoo, Ulrich Salzmann, Matthew J. Pound, Frida S. Hoem, Nick Thompson and Peter K. Bijl",
-    "year": "2023",
-    "venue": "Palaeogeography",
-    "url": "https://doi.org/10.1016/j.palaeo.2023.111632",
+    "url": "https://www.nature.com/articles/s41467-023-43106-4",
     "eprint_url": ""
   },
   {
     "title": "Late Cenozoic sea-surface-temperature evolution of the South Atlantic Ocean",
-    "authors": "Frida S. Hoem, Adrián López-Quirós, Suzanna van de Lagemaat, Johan Etourneau, Henk Brinkhuis, Francien Peterse, Francesca Sangiorgi, Peter K. Bijl",
-    "year": "2023",
+    "authors": "Frida S Hoem, Adri\u00e1n L\u00f3pez-Quir\u00f3s, Suzanna Van De Lagemaat, Johan Etourneau, Marie-Alexandrine Sicre, Carlota Escutia, Henk Brinkhuis, Francien Peterse, Francesca Sangiorgi, Peter K Bijl",
+    "year": 2023,
     "venue": "Climate of the Past",
-    "url": "https://doi.org/10.5194/cp-19-1931-2023",
+    "url": "https://cp.copernicus.org/articles/19/1931/2023/",
     "eprint_url": ""
   },
   {
-    "title": "Lipid biomarker-based sea (sub) surface temperature record offshore Tasmania over the last 23 million years",
-    "authors": "Hou, S., Lamprou, F., Hoem, F. S., Hadju, M. R. N., Sangiorgi, F., Peterse, F., and Bijl, P. K",
-    "year": "2023",
-    "venue": "Climate of the Past",
-    "url": "https://doi.org/10.5194/cp-19-787-2023",
+    "title": "Lipid-biomarker-based sea surface temperature record offshore Tasmania over the last 23 million years, Clim. Past, 19, 787\u2013802",
+    "authors": "S Hou, F Lamprou, FS Hoem, MRN Hadju, F Sangiorgi, F Peterse, PK Bijl",
+    "year": 2023,
+    "venue": "Preprint/Other",
+    "url": "https://scholar.google.com/scholar?cluster=6650819670475592838&hl=en&oi=scholarr",
     "eprint_url": ""
   },
   {
-    "title": "The paleoceanographic evolution of the Oligocene/Miocene Southern Ocean",
-    "authors": "Frida Snilstveit Hoem, A Song of Ice and a Warm Southern Ocean",
-    "year": "2022",
-    "venue": "Utrecht Studies in Earth Sciences",
-    "url": "https://doi.org/10.33540/1461",
+    "title": "Late Eocene to late Oligocene terrestrial climate and vegetation change in the western Tasmanian region",
+    "authors": "Michael Amoo, Ulrich Salzmann, Matthew J Pound, Frida S Hoem, Nick Thompson, Peter K Bijl",
+    "year": 2023,
+    "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+    "url": "https://www.sciencedirect.com/science/article/pii/S003101822300250X",
     "eprint_url": ""
   },
   {
-    "title": "Strength and variability of the Oligocene Southern Ocean surface temperature gradient",
-    "authors": "Hoem, F., Sauermilch, I., Aleksinski, A., Huber, M., Peterse, F., Sangiorgi, F., and Bijl, P",
-    "year": "2022",
-    "venue": "Nature Communications",
-    "url": "https://www.nature.com/articles/s43247-022-00666-5",
+    "title": "Reconciling equatorward migration of Southern Ocean fronts with minor ice volume change during Miocene cooling",
+    "authors": "Suning Hou, Lennert Stap, Ryan Paul, Mei Nelissen, Frida Hoem, Martin Ziegler, Appy Sluijs, Francesca Sangiorgi, Peter Bijl",
+    "year": 2023,
+    "venue": "Preprint/Other",
+    "url": "https://research-portal.uu.nl/en/publications/reconciling-equatorward-migration-of-southern-ocean-fronts-with-m/",
+    "eprint_url": ""
+  },
+  {
+    "title": "Stepwise mid-Cenozoic breakdown of sub-polar gyres and strengthening of the Antarctic Circumpolar Current",
+    "authors": "Frida S Hoem, Isabel Sauermilch, Suzanna van de Lagemaat, Adam K Aleksinski, Matthew Huber, Adri\u00e1n L\u00f3pez-Quir\u00f3s, Karlijn van den Broek, Johan Etourneau, Steve M Bohaty, Francien Peterse, Henk Brinkhuis, Francesca Sangiorgi, Peter K Bijl",
+    "year": 2023,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023EGUGA..2511470H/abstract",
+    "eprint_url": ""
+  },
+  {
+    "title": "The Cenozoic sea surface temperature evolution offshore Tasmania",
+    "authors": "Peter Bijl, Frida Hoem, Suning Hou, Lena Th\u00f6le, Isabel Sauermilch",
+    "year": 2023,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023EGUGA..25.2802B/abstract",
     "eprint_url": ""
   },
   {
     "title": "Ancient marine sediment DNA reveals diatom transition in Antarctica",
-    "authors": "Armbrecht, L., Weber, M. E., Raymo, M. E., Peck, V. L., Williams, T., Warnock, J., Kato, Y., Hern\u00e1ndez-Almeida, I., Hoem, F., and Reilly, B",
-    "year": "2022",
-    "venue": "Nature communications",
-    "url": "https://doi.org/10.1038/s41467-022-33494-4",
+    "authors": "Linda Armbrecht, Michael E Weber, Maureen E Raymo, Victoria L Peck, Trevor Williams, Jonathan Warnock, Yuji Kato, Iv\u00e1n Hern\u00e1ndez-Almeida, Frida Hoem, Brendan Reilly, Sidney Hemming, Ian Bailey, Yasmina M Martos, Marcus Gutjahr, Vincent Percuoco, Claire Allen, Stefanie Brachfeld, Fabricio G Cardillo, Zhiheng Du, Gerson Fauth, Chris Fogwill, Marga Garcia, Anna Gl\u00fcder, Michelle Guitard, Ji-Hwan Hwang, Mutsumi Iizuka, Bridget Kenlee, Suzanne O\u2019Connell, Lara F P\u00e9rez, Thomas A Ronge, Osamu Seki, Lisa Tauxe, Shubham Tripathi, Xufeng Zheng",
+    "year": 2022,
+    "venue": "Nature Communications",
+    "url": "https://www.nature.com/articles/s41467-022-33494-4",
+    "eprint_url": ""
+  },
+  {
+    "title": "Antiphased dust deposition and productivity in the Antarctic Zone over 1.5 million years",
+    "authors": "Michael E Weber, Ian Bailey, Sidney R Hemming, Yasmina M Martos, Brendan T Reilly, Thomas A Ronge, Stefanie Brachfeld, Trevor Williams, Maureen Raymo, Simon T Belt, Lukas Smik, Hendrik Vogel, Victoria L Peck, Linda Armbrecht, Alix Cage, Fabricio G Cardillo, Zhiheng Du, Gerson Fauth, Christopher J Fogwill, Marga Garcia, Marlo Garnsworthy, Anna Gl\u00fcder, Michelle Guitard, Marcus Gutjahr, Iv\u00e1n Hern\u00e1ndez-Almeida, Frida S Hoem, Ji-Hwan Hwang, Mutsumi Iizuka, Yuji Kato, Bridget Kenlee, Suzanne OConnell, Lara F P\u00e9rez, Osamu Seki, Lee Stevens, Lisa Tauxe, Shubham Tripathi, Jonathan Warnock, Xufeng Zheng",
+    "year": 2022,
+    "venue": "Nature Communications",
+    "url": "https://www.nature.com/articles/s41467-022-29642-5",
     "eprint_url": ""
   },
   {
     "title": "Climatic and tectonic drivers of late Oligocene Antarctic ice volume",
-    "authors": "Duncan, B.,  McKay, R., Levy, R., Naish, T.,  Prebble, J., Sangiorgi, F., Krishnan, S., Hoem, F., Clowes, C., Dunkley Jones, T.,  Gasson, E., Kraus, C., Kulhanek, D. K., Meyers, S., Moossen, H., Warren, C., Willmott, V., Ventura, G.T.  & Bendle, J",
-    "year": "2022",
+    "authors": "B Duncan, R McKay, R Levy, T Naish, JG Prebble, F Sangiorgi, S Krishnan, F Hoem, C Clowes, T Dunkley Jones, E Gasson, C Kraus, DK Kulhanek, SR Meyers, Heiko Moossen, C Warren, V Willmott, GT Ventura, J Bendle",
+    "year": 2022,
     "venue": "Nature Geoscience",
     "url": "https://www.nature.com/articles/s41561-022-01025-x",
     "eprint_url": ""
   },
   {
-    "title": "Latitudinal variance in the drivers and pacing of warmth during mid-Pleistocene MIS 31 in the Antarctic Zone of the Southern Ocean",
-    "authors": "Warnock, J., Reilly, B., Raymo, M., Weber, M., Peck, V., Williams, T., Armbrecht, L., Bailey, I., Brachfeld, S., Du, Z., Fauth, G., Fogwill, C. J., Garcia, M., Garnsworthy, M., Gluder, A., Guitard, M., Gutjahr, M., Hernandez-Almeida, I., Hoem, F. S., Hwang, J. H., Iizuka, M., Kato, Y., Kenlee, B., S, O. C., Perez, L. F., Seki, O., Stevens, L., Tauxe, L., Tripathi, S., Warnock, J., and Zheng, X",
-    "year": "2022",
-    "venue": "Paleoceanography",
-    "url": "",
-    "eprint_url": ""
-  },
-  {
-    "title": "Episodes of early Pleistocene West Antarctic Ice Sheet retreat recorded by Iceberg Alley sediments",
-    "authors": "Bailey, I., Hemming, S., Reilly, B. T., Rollinson, G., Williams, T., Weber, M. E., Raymo, M. E., Peck, V. L., Ronge, T. A., Brachfeld, S., L., Armbrecht, L., Cage, Cardillo, F., Du, Z., Fauth, G., Fogwill, C. J., Garcia, M., Garnsworthy, M., Gluder, A., Guitard, M., Gutjahr, M., Hernandez-Almeida, I., Hoem, F. S., Hwang, J. H., Iizuka, M., Kato, Y., Kenlee, B., S, O. C., Perez, L. F., Seki, O., Stevens, L., Tauxe, L., Tripathi, S., Warnock, J., and Zheng, X",
-    "year": "2022",
-    "venue": "Paleoceanography",
-    "url": "",
-    "eprint_url": ""
-  },
-  {
-    "title": "Vegetation change across the Drake Passage region linked to late Eocene cooling and glacial disturbance after the Eocene-Oligocene transition",
-    "authors": "Thompson, N., Salzmann, U., Lopez-Quiros, A., Bijl, P. K., Hoem, F. S., Etourneau, J., Sicre, M. A., Roignant, S., Hocking, E., Amoo, M., and Escutia, C",
-    "year": "2022",
+    "title": "Vegetation change across the Drake Passage region linked to late Eocene cooling and glacial disturbance after the Eocene\u2013Oligocene transition",
+    "authors": "Nick Thompson, Ulrich Salzmann, Adri\u00e1n L\u00f3pez-Quir\u00f3s, Peter K Bijl, Frida S Hoem, Johan Etourneau, Marie-Alexandrine Sicre, Sabine Roignant, Emma Hocking, Michael Amoo, Carlota Escutia",
+    "year": 2022,
     "venue": "Climate of the Past",
-    "url": "https://doi.org/10.5194/cp-18-209-2022",
+    "url": "https://cp.copernicus.org/articles/18/209/2022/",
     "eprint_url": ""
   },
   {
-    "title": "Antiphased dust deposition and productivity in the Antarctic Zone over 1.5 million years",
-    "authors": "Weber, M. E., Bailey, I., Hemming, S. R., Martos, Y. M., Reilly, B. T., Ronge, T. A., Brachfeld, S., Williams, T., Raymo, M., Belt, S. T., Smik, L., Vogel, H., Peck, V. L., Armbrecht, L., Cage, A., Cardillo, F. G., Du, Z., Fauth, G., Fogwill, C. J., Garcia, M., Garnsworthy, M., Gluder, A., Guitard, M., Gutjahr, M., Hernandez-Almeida, I., Hoem, F. S., Hwang, J. H., Iizuka, M., Kato, Y., Kenlee, B., S, O. C., Perez, L. F., Seki, O., Stevens, L., Tauxe, L., Tripathi, S., Warnock, J., and Zheng, X",
-    "year": "2022",
-    "venue": "Nature Communications",
-    "url": "https://doi.org/10.1038/s41467-022-29642-5",
+    "title": "Episodes of early Pleistocene West Antarctic ice sheet retreat recorded by iceberg alley sediments",
+    "authors": "Ian Bailey, Sidney Hemming, Brendan T Reilly, Gavyn Rollinson, Trevor Williams, Michael E Weber, Maureen E Raymo, Victoria L Peck, Thomas A Ronge, Stefanie Brachfeld, Suzanne O'Connell, Lisa Tauxe, Jonathan P Warnock, Linda Armbrecht, Fabricio G Cardillo, Zhiheng Du, Gerson Fauth, Marga Garcia, Anna Glueder, Michelle Guitard, Marcus Gutjahr, Iv\u00e1n Hern\u00e1ndez\u2010Almeida, Frida S Hoem, Ji\u2010Hwan Hwang, Mutsumi Iizuka, Yuji Kato, Bridget Kenlee, Yasmina M Martos, Lara F P\u00e9rez, Osamu Seki, Shubham Tripathi, Xufeng Zheng",
+    "year": 2022,
+    "venue": "Paleoceanography and Paleoclimatology",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022PA004433",
     "eprint_url": ""
   },
   {
     "title": "Absence of a strong, deep-reaching Antarctic Circumpolar Current zonal flow across the Tasmanian gateway during the Oligocene to early Miocene",
-    "authors": "Evangelinos, D., Escutia, C., van de Flierdt, T., Valero, L., Flores, J.-A., Harwood, D. M., Hoem, F. S., Bijl, P., Etourneau, J., and Kreissig, K",
-    "year": "2022",
+    "authors": "Dimitris Evangelinos, Carlota Escutia, Tina van de Flierdt, Luis Valero, Jos\u00e9-Abel Flores, David M Harwood, Frida S Hoem, Peter Bijl, Johan Etourneau, Katharina Kreissig, Katrina Nilsson-Kerr, Liam Holder, Adri\u00e1n L\u00f3pez-Quir\u00f3s, Ariadna Salabarnada",
+    "year": 2022,
     "venue": "Global and Planetary Change",
-    "url": "",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0921818121003039",
     "eprint_url": ""
   },
   {
-    "title": "Expedition 382 summary",
-    "authors": "Weber, M., Raymo, M., Peck, V., Williams, T., Armbrecht, L., Bailey, I., Brachfeld, S., Cardillo, F., Du, Z., Fauth, G., Fogwill, C. J., Garcia, M., Garnsworthy, M., Gluder, A., Guitard, M., Gutjahr, M., Hernandez-Almeida, I., Hoem, F. S., Hwang, J. H., Iizuka, M., Kato, Y., Kenlee, B., S, O. C., Perez, L. F., Seki, O., Stevens, L., Tauxe, L., Tripathi, S., Warnock, J., and Zheng, X",
-    "year": "2021",
-    "venue": "Proceedings of the International Ocean Discovery Program",
-    "url": "",
+    "title": "Strength and variability of the Oligocene Southern Ocean surface temperature gradient",
+    "authors": "Frida S Hoem, Isabel Sauermilch, Adam K Aleksinski, Matthew Huber, Francien Peterse, Francesca Sangiorgi, Peter K Bijl",
+    "year": 2022,
+    "venue": "Communications Earth & Environment",
+    "url": "https://www.nature.com/articles/s43247-022-00666-5",
     "eprint_url": ""
   },
   {
-    "title": "New magnetostratigraphic insights from Iceberg Alley on the rhythms of Antarctic climate during the Plio\u2010Pleistocene",
-    "authors": "Reilly, B. T., Tauxe, L., Brachfeld, S., Raymo, M., Bailey, I., Hemming, S., Weber, M. E., Williams, T., Garcia, M., Guitard, M., Hernandez-Almeida, I., Hoem, F. S., Hwang, J. H., Iizuka, M., Kato, Y., Kenlee, B., S, O. C., Perez, L. F., Seki, O., Stevens, L., Tauxe, L., Tripathi, S., Warnock, J., and Zheng, X",
-    "year": "2021",
-    "venue": "Paleoceanography",
-    "url": "",
+    "title": "Latitudinal variance in the drivers and pacing of warmth during Mid\u2010Pleistocene MIS 31 in the Antarctic zone of the Southern Ocean",
+    "authors": "Jonathan P Warnock, Brendan T Reilly, Maureen E Raymo, Michael E Weber, Victoria Peck, Trevor Williams, Linda Armbrecht, Ian Bailey, Stefanie Brachfeld, Zhiheng Du, Gerson Fauth, Marga M Garc\u00eda, Anna Gl\u00fcder, Michelle Guitard, Marcus Gutjahr, Sidney Hemming, Iv\u00e1n Hern\u00e1ndez\u2010Almeida, Freida S Hoem, Ji\u2010Hwan Hwang, Mutsumi Iizuka, Yuji Kato, Bridget Lee, Yasmina M Martos, Suzanne O\u2019Connell, Lara F P\u00e9rez, Thomas A Ronge, Osamu Seki, Lisa Tauxe, Shubham Tripathi, Xufeng Zheng, Joseph Stoner, Reed P Scherer",
+    "year": 2022,
+    "venue": "Paleoceanography and Paleoclimatology",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021PA004394",
+    "eprint_url": ""
+  },
+  {
+    "title": "Ancient marine sediment DNA reveals diatom transition in Antarctica, Nat. Commun., 13, 5787",
+    "authors": "L Armbrecht, ME Weber, ME Raymo, VL Peck, T Williams, J Warnock, Y Kato, I Hern\u00e1ndez-Almeida, F Hoem, B Reilly, S Hemming, I Bailey, YM Martos, M Gutjahr, V Percuoco, C Allen, S Brachfeld, FG Cardillo, Z Du, G Fauth, C Fogwill, M Garcia, A Gl\u00fcder, M Guitard, JH Hwang, M Iizuka, B Kenlee, S O\u2019Connell, LF P\u00e9rez, TA Ronge, O Seki, L Tauxe, S Tripathi, X Zheng",
+    "year": 2022,
+    "venue": "Preprint/Other",
+    "url": "https://scholar.google.com/scholar?cluster=11064210481254968017&hl=en&oi=scholarr",
+    "eprint_url": ""
+  },
+  {
+    "title": "Antiphased dust deposition and productivity in the Antarctic Zone over 1.5 million years, Nat. Commun., 13, 2044",
+    "authors": "ME Weber, I Bailey, SR Hemming, YM Martos, BT Reilly, TA Ronge, S Brachfeld, T Williams, M Raymo, ST Belt, L Smik, H Vogel, VL Peck, L Armbrecht, A Cage, FG Cardillo, Z Du, G Fauth, CJ Fogwill, M Garcia, M Garnsworthy, A Gl\u00fcder, M Guitard, M Gutjahr, I Hern\u00e1ndez-Almeida, FS Hoem, JH Hwang, M Iizuka, Y Kato, B Kenlee, S OConnell, LF P\u00e9rez, O Seki, L Stevens, L Tauxe, S Tripathi, J Warnock, X Zheng",
+    "year": 2022,
+    "venue": "Preprint/Other",
+    "url": "https://scholar.google.com/scholar?cluster=12237865597230132632&hl=en&oi=scholarr",
+    "eprint_url": ""
+  },
+  {
+    "title": "Vegetation change across the Drake Passage region linked to late Eocene cooling and glacial disturbance after the Eocene\u2013Oligocene transition, Clim. Past, 18, 209\u2013232",
+    "authors": "N Thompson, U Salzmann, A L\u00f3pez-Quir\u00f3s, PK Bijl, FS Hoem, J Etourneau, MA Sicre, S Roignant, E Hocking, M Amoo, C Escutia",
+    "year": 2022,
+    "venue": "Preprint/Other",
+    "url": "https://scholar.google.com/scholar?cluster=9829821324174278339&hl=en&oi=scholarr",
+    "eprint_url": ""
+  },
+  {
+    "title": "Ancient marine sediment DNA reveals diatom transition in Antarctica. Nat Commun 13 (1): 5787",
+    "authors": "L Armbrecht, ME Weber, ME Raymo, VL Peck, T Williams, J Warnock, Y Kato, I Hern\u00e1ndez-Almeida, F Hoem, B Reilly, S Hemming, I Bailey, YM Martos, M Gutjahr, V Percuoco, C Allen, S Brachfeld, FG Cardillo, Z Du, G Fauth, C Fogwill, M Garcia, A Gl\u00fcder, M Guitard, JH Hwang, M Iizuka, B Kenlee, S O\u2019Connell, LF P\u00e9rez, TA Ronge, O Seki, L Tauxe, S Tripathi, X Zheng",
+    "year": 2022,
+    "venue": "Preprint/Other",
+    "url": "https://scholar.google.com/scholar?cluster=3757892640183830114&hl=en&oi=scholarr",
+    "eprint_url": ""
+  },
+  {
+    "title": "A Song of Ice and a Warm Southern Ocean: The paleoceanographic evolution of the Oligocene\u2013Miocene Southern Ocean",
+    "authors": "Frida Snilstveit Hoem",
+    "year": 2022,
+    "venue": "Preprint/Other",
+    "url": "https://dspace.library.uu.nl/handle/1874/423953",
+    "eprint_url": ""
+  },
+  {
+    "title": "IODP Expedition 382: Supplementary Tables for\" Episodes of early Pleistocene West Antarctic Ice Sheet retreat recorded by Iceberg Alley sediments\"",
+    "authors": "Ian Bailey, Sidney Hemming, Brendan Reilly, Gavyn Rollinson, Trevor Williams, Michael E Weber, Maureen E Raymo, Victoria L Peck, Thomas A Ronge, Stefanie Brachfeld, Suzanne O'Connell, Lisa Tauxe, Jonathan P Warnock, Linda Armbrecht, Fabricio G Cardillo, Zhiheng Du, Gerson Fauth, Marga Garcia, Anna Glueder, Michele Guitard, Marcus Gutjahr, Ivan Hern\u00e1ndez-Almeida, Frida S Hoem, Ji-Hwan Hwang, Mutsumi Iizuka, Yuji Kato, Bridget Kenlee, Yasmina M Martos, Lara F P\u00e9rez, Osamu Seki, Shubham Tripathi, Xufeng Zheng",
+    "year": 2022,
+    "venue": "(No Title)",
+    "url": "https://cir.nii.ac.jp/crid/1882272492772929024",
+    "eprint_url": ""
+  },
+  {
+    "title": "Age-Depth tie points for DSDP Hole 28-270",
+    "authors": "Bella Duncan, Robert M McKay, Richard H Levy, Timothy R Naish, Joseph G Prebble, Francesca Sangiorgi, Srinath Krishnan, Frida Hoem, Christopher Clowes, Tom Dunkley Jones, Edward GW Gasson, Christoph Kraus, Denise K Kulhanek, Stephen R Meyers, Heiko Moossen, Courtney E Warren, Ver\u00f3nica Willmott, G Todd Ventura, James A Bendle",
+    "year": 2022,
+    "venue": "(No Title)",
+    "url": "https://cir.nii.ac.jp/crid/1881428068246582656",
+    "eprint_url": ""
+  },
+  {
+    "title": "Updated ages for the McMurdo erratics and basis for age changes",
+    "authors": "Bella Duncan, Robert M McKay, Richard H Levy, Timothy R Naish, Joseph G Prebble, Francesca Sangiorgi, Srinath Krishnan, Frida Hoem, Christopher Clowes, Tom Dunkley Jones, Edward GW Gasson, Christoph Kraus, Denise K Kulhanek, Stephen R Meyers, Heiko Moossen, Courtney E Warren, Ver\u00f3nica Willmott, G Todd Ventura, James A Bendle",
+    "year": 2022,
+    "venue": "(No Title)",
+    "url": "https://cir.nii.ac.jp/crid/1881991018211698048",
     "eprint_url": ""
   },
   {
     "title": "Miocene to present oceanographic variability in the Scotia Sea and Antarctic ice sheets dynamics: Insight from revised seismic-stratigraphy following IODP Expedition 382",
-    "authors": "Pèrez, L. F., Martos, Y. M., García, M., Weber, M. E., Raymo, M. E., Williams, T., Bohoyo, F., Armbrecht, L., Bailey, I., Brachfeld, S., Cardillo, F., Du, Z., Fauth, G., Garcia, M., Garnsworthy, M., Gluder, A., Guitard, M., Gutjahr, M., Hernandez-Almeida, I., Hoem, F. S., Hwang, J. H., Iizuka, M., Kato, Y., Kenlee, B., S, O. C., Perez, L. F., Seki, O., Stevens, L., Tauxe, L., Tripathi, S., Warnock, J., and Zheng, X",
-    "year": "2021",
+    "authors": "Lara F P\u00e9rez, Yasmina M Martos, Marga Garc\u00eda, Michael E Weber, Maureen E Raymo, Trevor Williams, Fernando Bohoyo, Linda Armbrecht, Ian Bailey, Stefanie Brachfeld, Anna Gl\u00fcder, Michelle Guitard, Marcus Gutjahr, Sidney Hemming, Iv\u00e1n Hern\u00e1ndez-Almeida, Frida S Hoem, Yuji Kato, Suzanne O'Connell, Victoria L Peck, Brendan Reilly, Thomas A Ronge, Lisa Tauxe, Jonathan Warnock, Xufeng Zheng",
+    "year": 2021,
     "venue": "Earth and Planetary Science Letters",
-    "url": "",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0012821X20306014",
     "eprint_url": ""
   },
   {
-    "title": "Eocene-Oligocene paleoenvironmental changes in the South Orkney Microcontinent (Antarctica) linked to the opening of Powell Basin",
-    "authors": "López-Quirós, A., Escutia, C., Etourneau, J., Rodríguez-Tovar, F. J., Roignant, S., Lobo, F. J., Thompson, N., Bijl, P. K., Bohoyo, F., Salzmann, U., Evangelinos, D., Salabarnada, A., Hoem, F. S., and Sicre, M.-A",
-    "year": "2021",
-    "venue": "Global and Planetary Change",
-    "url": "",
+    "title": "New magnetostratigraphic insights from Iceberg Alley on the rhythms of Antarctic climate during the Plio\u2010Pleistocene",
+    "authors": "Brendan T Reilly, Lisa Tauxe, Stefanie Brachfeld, Maureen Raymo, Ian Bailey, Sidney Hemming, Michael E Weber, Trevor Williams, Marga Garcia, Michelle Guitard, Yasmina M Martos, Lara F P\u00e9rez, Xufeng Zheng, Linda Armbrecht, Fabricio G Cardillo, Zhiheng Du, Gerson Fauth, Anna Glueder, Marcus Gutjahr, Iv\u00e1n Hern\u00e1ndez\u2010Almeida, Frida S Hoem, Ji\u2010Hwan Hwang, Mutsumi Iizuka, Yuji Kato, Bridget Kenlee, Suzanne O\u2019connell, Victoria Peck, Thomas A Ronge, Osamu Seki, Shubham Tripathi, Jonathan Warnock",
+    "year": 2021,
+    "venue": "Paleoceanography and Paleoclimatology",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020pa003994",
+    "eprint_url": ""
+  },
+  {
+    "title": "Late Eocene\u2013early Miocene evolution of the southern Australian subtropical front: a marine palynological approach",
+    "authors": "Frida S Hoem, Isabel Sauermilch, Suning Hou, Henk Brinkhuis, Francesca Sangiorgi, Peter K Bijl",
+    "year": 2021,
+    "venue": "Journal of Micropalaeontology",
+    "url": "https://jm.copernicus.org/articles/40/175/2021/",
     "eprint_url": ""
   },
   {
     "title": "Temperate Oligocene surface ocean conditions offshore of Cape Adare, Ross Sea, Antarctica",
-    "authors": "Hoem, F. S., Valero, L., Evangelinos, D., Escutia, C., Duncan, B., McKay, R. M., Brinkhuis, H., Sangiorgi, F., and Bijl, P. K",
-    "year": "2021",
+    "authors": "Frida S Hoem, Luis Valero, Dimitris Evangelinos, Carlota Escutia, Bella Duncan, Robert M McKay, Henk Brinkhuis, Francesca Sangiorgi, Peter K Bijl",
+    "year": 2021,
     "venue": "Climate of the Past",
-    "url": "https://doi.org/10.5194/cp-17-1423-2021",
+    "url": "https://cp.copernicus.org/articles/17/1423/2021/cp-17-1423-2021.html",
     "eprint_url": ""
   },
   {
-    "title": "Late Eocene-early Miocene evolution of the southern Australian subtropical front: a marine palynological approach",
-    "authors": "Hoem, F. S., Sauermilch, I., Hou, S. N., Brinkhuis, H., Sangiorgi, F., and Bijl, P. K",
-    "year": "2021",
-    "venue": "Journal of Micropalaeontology",
-    "url": "https://doi.org/10.5194/jm-40-175-2021",
-    "eprint_url": ""
-  },
-  {
-    "title": "Late Oligocene-Miocene proto-Antarctic Circumpolar Current dynamics off the Wilkes Land margin, East Antarctica",
-    "authors": "Evangelinos, D., Escutia, C., Etourneau, J., Hoem, F., Bijl, P., Boterblom, W., van de Flierdt, T., Valero, L., Flores, J. A., Rodriguez-Tovar, F. J., Jimenez-Espejo, F. J., Salabarnada, A., and Lopez-Quiros, A",
-    "year": "2020",
+    "title": "Eocene-Oligocene paleoenvironmental changes in the South Orkney Microcontinent (Antarctica) linked to the opening of Powell Basin",
+    "authors": "Adri\u00e1n L\u00f3pez-Quir\u00f3s, Carlota Escutia, Johan Etourneau, Francisco J Rodr\u00edguez-Tovar, Sabine Roignant, Francisco J Lobo, Nick Thompson, Peter K Bijl, Fernando Bohoyo, Ulrich Salzmann, Dimitris Evangelinos, Ariadna Salabarnada, Frida S Hoem, Marie-Alexandrine Sicre",
+    "year": 2021,
     "venue": "Global and Planetary Change",
-    "url": "",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0921818121001661",
     "eprint_url": ""
   },
   {
-    "title": "Master thesis: Centennial-millennial scale variations in West Antarctic Ice Sheet discharge and their relationship to climate and ocean changes during the late Holocene",
-    "authors": "Hoem, F. S",
-    "year": "2017",
-    "venue": "The University of Bergen",
-    "url": "https://hdl.handle.net/1956/16391",
+    "title": "Expedition 382 methods",
+    "authors": "Michael E Weber, Maureen E Raymo, Victoria L Peck, T Williams, LH Armbrecht, Ian Bailey, SA Brachfeld, Fabricio G Cardillo, Zhiheng Du, Gerson Fauth, M Garc\u00eda, Anna Gl\u00fcder, ME Guitard, Marcus Gutjahr, Sidney R Hemming, Iv\u00e1n Hern\u00e1ndez-Almeida, Frida S Hoem, Ji Hwan Hwang, Mutsumi Iizuka, Yuji Kato, Bridget Kenlee, Yasmina M Martos, Suzanne O'Connell, Lara F P\u00e9rez, Brendan T Reilly, Thomas A Ronge, Osamu Seki, Lisa Tauxe, Shubham Tripathi, Jonathan P Warnock, Xufeng Zheng",
+    "year": 2021,
+    "venue": "International Ocean Discovery Program",
+    "url": "https://par.nsf.gov/servlets/purl/10583027",
+    "eprint_url": ""
+  },
+  {
+    "title": "Site U1537",
+    "authors": "Michael E Weber, Maureen E Raymo, Victoria L Peck, T Williams, LH Armbrecht, Ian Bailey, SA Brachfeld, Fabricio G Cardillo, Zhiheng Du, Gerson Fauth, M Garc\u00eda, Anna Gl\u00fcder, ME Guitard, Marcus Gutjahr, Sidney R Hemming, Iv\u00e1n Hern\u00e1ndez-Almeida, Frida S Hoem, Ji Hwan Hwang, Mutsumi Iizuka, Yuji Kato, Bridget Kenlee, Yasmina M Martos, Suzanne O'Connell, Lara F P\u00e9rez, Brendan T Reilly, Thomas A Ronge, Osamu Seki, Lisa Tauxe, Shubham Tripathi, Jonathan P Warnock, Xufeng Zheng",
+    "year": 2021,
+    "venue": "International Ocean Discovery Program",
+    "url": "https://par.nsf.gov/servlets/purl/10583032",
+    "eprint_url": ""
+  },
+  {
+    "title": "Site U1534",
+    "authors": "Victoria L Peck, Michael E Weber, Maureen E Raymo, Trevor J Williams, Linda Armbrecht, Ian Bailey, Stefanie Brachfeld, Fabricio G Cardillo, Zhiheng Du, Gerson Fauth, Marga M Garc\u00eda, Anna Gl\u00fcder, Michelle Guitard, Marcus Gutjahr, Sidney R Hemming, Iv\u00e1n Hern\u00e1ndez-Almeida, Frida S Hoem, Ji Hwan Hwang, Mutsumi Iizuka, Yuji Kato, Bridget Kenlee, Yasmina M Martos, Suzanne O'Connell, Lara F P\u00e9rez, Brendan T Reilly, Thomas A Ronge, Osamu Seki, Lisa Tauxe, Shubham Tripathi, Jonathan P Warnock, Xufeng Zheng",
+    "year": 2021,
+    "venue": "Proceedings of the International Ocean Discovery Program",
+    "url": "https://publications.iodp.org/proceedings/382/103/382_103.html",
+    "eprint_url": ""
+  },
+  {
+    "title": "Expedition 382 summary",
+    "authors": "Michael E Weber, Maureen E Raymo, Victoria L Peck, T Williams, LH Armbrecht, Ian Bailey, SA Brachfeld, Fabricio G Cardillo, Zhiheng Du, Gerson Fauth, M Garc\u00eda, Anna Gl\u00fcder, ME Guitard, Marcus Gutjahr, Sidney R Hemming, Iv\u00e1n Hern\u00e1ndez-Almeida, Frida S Hoem, Ji Hwan Hwang, Mutsumi Iizuka, Yuji Kato, Bridget Kenlee, Yasmina M Martos, Suzanne O'Connell, Lara F P\u00e9rez, Brendan T Reilly, Thomas A Ronge, Osamu Seki, Lisa Tauxe, Shubham Tripathi, Jonathan P Warnock, Xufeng Zheng",
+    "year": 2021,
+    "venue": "International Ocean Discovery Program",
+    "url": "https://par.nsf.gov/servlets/purl/10583026",
+    "eprint_url": ""
+  },
+  {
+    "title": "Temperate Oligocene surface ocean conditions offshore of Cape Adare, Ross Sea, Antarctica, Clim. Past, 17, 1423\u20131442",
+    "authors": "FS Hoem, L Valero, D Evangelinos, C Escutia, B Duncan, RM McKay, H Brinkhuis, F Sangiorgi, PK Bijl",
+    "year": 2021,
+    "venue": "Preprint/Other",
+    "url": "https://scholar.google.com/scholar?cluster=17150471585260689074&hl=en&oi=scholarr",
+    "eprint_url": ""
+  },
+  {
+    "title": "Latitudinal Sea Surface Temperature Gradient of the Oligocene Southern Ocean",
+    "authors": "Frida Hoem, Isabel Sauermilch, Adam Aleksinski, Matt Huber, Peter Bijl, Francesca Sangiorgi",
+    "year": 2021,
+    "venue": "AGU Fall Meeting Abstracts",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AGUFMPP55D0698H/abstract",
+    "eprint_url": ""
+  },
+  {
+    "title": "Antiphased dust deposition and productivity in the Antarctic Zone over the past 1.5 million years",
+    "authors": "Michael Weber, Ian Bailey, Sidney Hemming, Yasmina M Martos, Brendan Reilly, Thomas Ronge, Stefanie Brachfeld, Trevor Williams, Maureen Raymo, Simon Belt, Lukas Smik, Hendrik Vogel, Victoria Peck, Linda Armbrecht, Alix Cage, Fabricio Cardillo, Zhiheng Du, Gerson Fauth, Christopher Fogwill, Marga Garc\u00eda, Marlo Garnsworthy, Anna Glueder, Michelle Guitard, Marcus Gutjahr, Iv\u00e1n Hern\u00e1ndez-Almeida, Frida Hoem, Ji-Hwang Hwang, Mitsumi Iizuka, Yuji Kato, Bridget Lee, Suzanne OConnell, Lara Perez, Osamu Seki, Lee Stevens, Lisa Tauxe, Shubham Tripathi, Jonathan Warnock, Xufeng Zheng",
+    "year": 2021,
+    "venue": "AGU Fall Meeting Abstracts",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AGUFMPP41C..03W/abstract",
+    "eprint_url": ""
+  },
+  {
+    "title": "Decoupled dust deposition and ocean productivity in the Antarctic Zone of the Southern Ocean",
+    "authors": "Michael E Weber, Ian Bailey, Sidney Hemming, Yasmina M Martos, Brendan Reilly, Thomas A Ronge, Stefanie Brachfeld, Trevor Williams, Maureen Raymo, Simon T Belt, Lukas Smik, Hendrik Vogel, Victoria Peck, Linda Armbrecht, Alix Cage, Fabricio G Bardillo, Zhiheng Du, Gerson Fauth, CJ Fogwill, Marga Garc\u00eda, Marlo Garnsworthy, Anna Glueder, Michelle Guitard, Marcus Gutjahr, Iv\u00e1n Hern\u00e1ndez-Almeida, Frida Hoem, Ji-Hwan Hwang, Mutsumi Iizuka, Yuji Kato, Bridget Kenlee, Suzanne Oconnell, Lara F P\u00e9rez, Osamu Seki, Lee Stevens, Lisa Tauxe, Shubham Tripathi, Jonathan P Warnock, Xufeng Zheng",
+    "year": 2021,
+    "venue": "Preprint/Other",
+    "url": "https://keele-repository.worktribe.com/output/428436",
+    "eprint_url": ""
+  },
+  {
+    "title": "Southern high latitude vegetation change across the Drake Passage region linked to prolonged intervals of climate cooling during the early Oligocene",
+    "authors": "Nick Thompson, Ulrich Salzmann, Adri\u00e1n L\u00f3pez Quir\u00f3s, Carlota Escutia, Peter Bijl, Frida Hoem, Johan Etourneau, Marie-Alexandrine Sicre, Sabine Roignant, Michael Amoo",
+    "year": 2021,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021EGUGA..23.9503T/abstract",
+    "eprint_url": ""
+  },
+  {
+    "title": "Oligocene sea-surface temperature gradients in the Southern Ocean related to Tasmanian Gateway widening: New TEX86 paleothermometry, dinoflagellate cyst data and climate model comparisons",
+    "authors": "Frida Hoem, Suning Hou, Matthew Huber, Francesca Sangiorgi, Henk Brinkhuis, Peter Bijl",
+    "year": 2021,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021EGUGA..2311103H/abstract",
+    "eprint_url": ""
+  },
+  {
+    "title": "Corriente Circumpolar Ant\u00e1rtica durante el Oligoceno-Mioceno inferior.",
+    "authors": "Dimitris Evangelinos, Carlota Escutia Dotti, T van de Flierdt, J Etourneau, Jos\u00e9 Abel Flores Villarejo, L Valero, F Hoem, Peter K Bijl, K Kreissig, K Kerr, L Holder, Adri\u00e1n L\u00f3pez Quir\u00f3s, A Salabarnada",
+    "year": 2021,
+    "venue": "Geotemas (Madrid)",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=8560841",
+    "eprint_url": ""
+  },
+  {
+    "title": "Clima cenozoico e impacto tect\u00f3nico de la apertura del Paso de Drake",
+    "authors": "A L\u00f3pez-Quir\u00f3s, C Escutia, J Etourneau, S Roignant, FJ Lobo, FJ Rodr\u00edguez-Tovar, F Bohoyo, Dimitris Evangelinos, A Salabarnada, FS Hoem, Peter K Bijl, Marie-Alexandrine Sicre, V Klein",
+    "year": 2021,
+    "venue": "Geotemas (Madrid)",
+    "url": "https://produccioncientifica.ugr.es/documentos/6323e032c18e6b736470ccd2?lang=en",
+    "eprint_url": ""
+  },
+  {
+    "title": "Late oligocene-miocene proto-antarctic circumpolar current dynamics off the Wilkes Land margin, East Antarctica",
+    "authors": "Dimitris Evangelinos, Carlota Escutia, Johan Etourneau, Frida Hoem, Peter Bijl, Wilrieke Boterblom, Tina van de Flierdt, Luis Valero, Jos\u00e9-Abel Flores, Francisco J Rodriguez-Tovar, Francisco J Jimenez-Espejo, Ariadna Salabarnada, Adri\u00e1n L\u00f3pez-Quir\u00f3s",
+    "year": 2020,
+    "venue": "Global and Planetary Change",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0921818120301120",
+    "eprint_url": ""
+  },
+  {
+    "title": "International Ocean Discovery Program Expedition 382 preliminary report: Iceberg Alley and SubAntarctic Ice and Ocean Dynamics",
+    "authors": "Michael E Weber, Maureen E Raymo, Trevor Williams, Linda Armbrecht, Ian Bailey, Stefanie Brachfeld, Zhiheng Du, Gerson Fauth, Marga Garcia, Anna Gl\u00fcder, Michelle Guitard, Marcus Gutjahr, Sidney Hemming, Ivan Hernandez-Almeid, Frida S Hoem, Ji Hwan Hwang, Mutsumi Iizuka, Yuji Kato, Bridget K Lee, Yasmina M Martos, Suzanne O'Connell, Victoria L Peck, Lara F Perez, Brendan Reilly, Thomas A Ronge, Osamu Seki, Lisa Tauxe, Shubham Tripathi, Jonathan Warnock, Xufeng Zheng, Fabricio G Cardillo, Anthony D Mello",
+    "year": 2019,
+    "venue": "Preprint/Other",
+    "url": "https://digitalcommons.montclair.edu/earth-environ-studies-facpubs/717/",
+    "eprint_url": ""
+  },
+  {
+    "title": "Early Oligocene to middle Miocene surface ocean conditions offshore Cape Adare (Ross Sea, Antarctica); palynological and temperature records of DSDP Site 274",
+    "authors": "Frida S Hoem, Dimitris Evangelinos, Carlota Escutia, Francesca Sangiorgi, Henk Brinkhuis, Peter K Bijl",
+    "year": 2019,
+    "venue": "Preprint/Other",
+    "url": "https://digital.csic.es/handle/10261/207643",
+    "eprint_url": ""
+  },
+  {
+    "title": "The South Orkney Microcontinent: an open door in the Weddell Sea mirroring the Cenozoic climate and tectonic impact of the opening of Drake Passage",
+    "authors": "Adri\u00e1n L\u00f3pez-Quir\u00f3s, Carlota Escutia, Johan Etourneau, Sabine Roignant, Fernando Bohoyo, Francisco Jos\u00e9 Lobo, Dimitris Evangelinos, Ariadna Salabarnada, Frida S Hoem, Peter K Bijl, Marie-Alexandrine Sicre, Vincent Klein",
+    "year": 2019,
+    "venue": "Preprint/Other",
+    "url": "https://digital.csic.es/handle/10261/208881",
+    "eprint_url": ""
+  },
+  {
+    "title": "Effects of Drake Passage opening at the northwestern Weddell Sea (Antarctica): Climatic inferences from sediment accumulation and stable isotope data",
+    "authors": "Adri\u00e1n L\u00f3pez Quir\u00f3s, Carlota Escutia, Johan Etourneau, Frida S Hoem, Peter K Bijl, David Harwood, Francisco J Rodr\u00edguez-Tovar, Fernando Bohoyo, Francisco J Lobo, Dimitris Evangelinos, Ariadna Salabarnada, Carlos Exp\u00f3sito-Ceballos",
+    "year": 2019,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019EGUGA..2114465L/abstract",
+    "eprint_url": ""
+  },
+  {
+    "title": "Effects of Drake Passage opening at the northwestern Weddell Sea (Antarctica): Climatic inferences from sediment accumulation and stable isotope data.",
+    "authors": "Adri\u00e1n L\u00f3pez Quir\u00f3s, Carlota Escutia, Johan Etourneau, Frida S Hoem, Peter K Bijl, David Harwood, Francisco J Rodr\u00edguez-Tovar, Fernando Bohoyo, Francisco J Lobo, Dimitris Evangelinos, Ariadna Salabarnada, Carlos Exp\u00f3sito-Ceballos",
+    "year": 2019,
+    "venue": "Geophysical Research Abstracts",
+    "url": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10297006&AN=140481343&h=BU9cJGKfbF1z3OYg%2BDURp29pa69uHT2qDiX1kOZWVvXiHw6LfrzxSqM7tp0fjbgSuAlqUuWlVZJ3YcW%2Bl%2FcSdA%3D%3D&crl=c",
+    "eprint_url": ""
+  },
+  {
+    "title": "Centennial-millennial scale variations in West Antarctic Ice Sheet discharge and their relationship to climate and ocean changes during the late Holocene",
+    "authors": "Frida Snilstveit Hoem",
+    "year": 2017,
+    "venue": "Preprint/Other",
+    "url": "https://agris.fao.org/search/en/providers/125311/records/6748dea17625988a37214f00",
+    "eprint_url": ""
+  },
+  {
+    "title": "Supplement to: Reconciling equatorward migration of Southern Ocean fronts with minor Antarctic ice volume change during Miocene cooling",
+    "authors": "Suning Hou, Lennert B Stap, Ryan Paul, Mei Nelissen, Frida S Hoem, Martin Ziegler, Appy Sluijs, Francesca Sangiorgi, Peter K Bijl",
+    "year": "n.d.",
+    "venue": "Preprint/Other",
+    "url": "https://scholar.google.com/scholar?cluster=4580668529245640441&hl=en&oi=scholarr",
+    "eprint_url": ""
+  },
+  {
+    "title": "Late Cenozoic oceanographic evolution of the South Atlantic Ocean",
+    "authors": "Frida S Hoem, Karlijn van den Broek, Adri\u00e1n L\u00f3pez-Quir\u00f3s, Suzanna van de Lagemaat, Steven M Bohaty, Henk Brinkhuis, Francesca Sangiorgi, Peter K Bijl",
+    "year": "n.d.",
+    "venue": "A Song of Ice and a Warm Southern Ocean",
+    "url": "https://dspace.library.uu.nl/bitstream/handle/1874/423953/phd-thesis-hoem-final%20-%206373662c14aa1.pdf?sequence=1#page=114",
+    "eprint_url": ""
+  },
+  {
+    "title": "Terrestrial Climate and Vegetation Change in the Western Tasmanian Region from the Late Eocene to Late Oligocene",
+    "authors": "Michael Amoo, Ulrich Salzmann, Matthew J Pound, Frida S Hoem, Nick Thompson, Peter K Bijl",
+    "year": "n.d.",
+    "venue": "Available at SSRN 4176394",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4176394",
     "eprint_url": ""
   }
 ]
